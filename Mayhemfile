@@ -1,0 +1,5 @@
+project: jacob-clemente/infgen
+target: infgen
+
+cmds:
+  - cmd: /infgen @@
