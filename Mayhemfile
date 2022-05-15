@@ -1,4 +1,4 @@
-project: jacob-clemente/infgen
+project: infgen
 target: infgen
 
 cmds:
